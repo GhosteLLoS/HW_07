@@ -1,4 +1,4 @@
-from clean_folder import setup
+from setuptools import setup
 
 setup(name='actions',
       version='1',
