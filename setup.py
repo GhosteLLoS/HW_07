@@ -5,6 +5,6 @@ setup(name='actions',
       description='Actions with files and folders',
       url='https://github.com/GhosteLLoS/Python3/blob/master/HW_06.py',
       author='Aliaksei Miadzvetski',
-      author_email='ghostellos@example.com',
+      author_email='ghostellos@gmail.com',
       license='MIT',
       packages=['actions'])
